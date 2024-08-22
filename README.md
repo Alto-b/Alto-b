@@ -107,6 +107,12 @@
     <img align="center" alt="vmware" width="auto" src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" />
 </p>
 
+<h4 align="center">📝 Blog</h4>
+<p align="center">
+    <img align="center" alt="medium" width="auto" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</p>
+
+<br>
 
 <br>
 <h4 align="center">Connect with me</h4>
@@ -122,12 +128,7 @@
    </a>
 </p>
 
-<h4 align="center">📝 Blog</h4>
-<p align="center">
-    <img align="center" alt="medium" width="auto" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</p>
 
-<br>
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
