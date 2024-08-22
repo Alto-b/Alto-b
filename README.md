@@ -1,4 +1,4 @@
-  <p align="right" style="font-style=orbitron;"> PROFILE VISITS</p> <img align="right" src="https://profile-counter.glitch.me/Alto-b/count.svg">
+ <!-- <p align="right" style="font-style=orbitron;"> PROFILE VISITS</p> <img align="right" src="https://profile-counter.glitch.me/Alto-b/count.svg">
     <br>
 
   <div align="center" >
@@ -6,7 +6,23 @@
   </div>
 
   ![banner](https://github.com/Alto-b/Alto-b/assets/89630614/f6d17e4e-8b00-4180-ae20-6485c5495f9b) 
+-->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="github.com/alto-b">Alto B</a></b>
+        </samp>
+</h3>
 
+
+<p align="center"> 
+  <samp>
+  <!--  <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a> -->
+    <br>
+    「 I am a flutter developer 」
+    <br>
+    <br>
+  </samp>
+</p>
 <br>
 <!-- <img src="https://ivanluna.dev/images/banner.png"><br><br> -->
 <!--  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br> -->
