@@ -109,7 +109,7 @@
 <br>
 <h4 align="center">📝 Blog</h4>
 <p align="center">
-  <a href="">
+  <a href="https://medium.com/@altob282">
     <img align="center" alt="medium" width="auto" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
    </a>
 </p>
