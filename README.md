@@ -61,7 +61,7 @@
    
    
  <br>
- <h4 align="center"> 🕓 Version Control</h4>
+ <h4 align="center">🕓 Version Control</h4>
    <p align="center">
    <img align="center" alt="GitHub" width="auto" src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
      <img align="center" alt="BitBucket" width="auto" src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" />
@@ -82,11 +82,13 @@
     <img align="center" alt="netbeans" width="auto" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" />
     <img align="center" alt="pycharm" width="auto" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
     <img align="center" alt="vscode" width="auto" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    <img align="center" alt="visualstudio" width="auto" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+    <img align="center" alt="xcode" width="auto" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
 </p>
 
  
  <br>
- <h4 align="center"> ⏱️ Workflow Platforms </h4>
+ <h4 align="center">⏱️ Workflow Platforms</h4>
    <p align="center">
    <img align="center" alt="Jira" width="auto" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
   
@@ -106,7 +108,7 @@
 
 
 <br>
-<h4 align="center"> Connect with me</h4>
+<h4 align="center">Connect with me</h4>
 <p align="center">
    <a target="_blank" href="https://www.linkedin.com/in/alto-b-puthethu-b864b6251">
     <img align="center" alt="LinkdeIN" width="auto" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
