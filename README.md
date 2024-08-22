@@ -18,7 +18,7 @@
   <samp>
   <!--  <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a> -->
     <br>
-    「 Flutter developer 」
+    「 Flutter Developer 」
     <br>
     <br>
   </samp>
