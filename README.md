@@ -1,9 +1,10 @@
   <p align="right" style="font-style=orbitron;"> PROFILE VISITS</p> <img align="right" src="https://profile-counter.glitch.me/Alto-b/count.svg">
     <br>
-
+<!--
   <div align="center" >
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&background=EF140F00&width=435&lines=Hi+!+I+am+Alto+b;Flutter+developer;Freelancer" alt="Typing SVG" /></a>
   </div>
+  -->
 <!--
   ![banner](https://github.com/Alto-b/Alto-b/assets/89630614/f6d17e4e-8b00-4180-ae20-6485c5495f9b) 
 -->
