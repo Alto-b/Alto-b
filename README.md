@@ -46,11 +46,13 @@
      <img align="center" alt="flutter" width="auto" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
      <img align="center" alt="bootstrap" width="auto" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
      <img align="center" alt="jquery" width="auto" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
-   <img align="center" alt="anaconda" width="auto" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
+     <img align="center" alt="anaconda" width="auto" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
+     <img align="center" alt="fastapi" width="auto" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" />
    
    
   
 </p>
+
 <br>
 <h4 align="center"> 💾 Databases</h4>
    <p align="center">
