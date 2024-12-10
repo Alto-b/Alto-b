@@ -54,6 +54,14 @@
 </p>
 
 <br>
+<h4 align="center"> ☁ Cloud</h4>
+   <p align="center">
+   <img align="center" alt="aws" width="auto" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+       
+      
+</p>
+
+<br>
 <h4 align="center"> 💾 Databases</h4>
    <p align="center">
    <img align="center" alt="mysql" width="auto" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
