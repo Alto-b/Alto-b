@@ -106,6 +106,15 @@
    <img align="center" alt="Jira" width="auto" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
   
 </p>
+
+ <br>
+ <h4 align="center"> 🤖 Artificial Intelligence </h4>
+   <p align="center">
+   <img align="center" alt="chatgpt" width="auto" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+   <img align="center" alt="gemini" width="auto" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  
+</p>
+
  <br>
 <h4 align="center">Linters</h4>
  <p align="center">
