@@ -9,7 +9,7 @@
   ![banner](https://github.com/Alto-b/Alto-b/assets/89630614/f6d17e4e-8b00-4180-ae20-6485c5495f9b) 
 -->
 <h3 align="center">
-        <samp> Hey There!, I am
+        <samp> Hello World!, I am
                 <b><a target="_blank" href="github.com/alto-b">Alto B</a></b>
         </samp>
 </h3>
