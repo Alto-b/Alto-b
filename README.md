@@ -28,8 +28,7 @@
 
 <!-- <img src="https://ivanluna.dev/images/banner.png"><br><br> -->
 <!--  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br> -->
-
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
  
 <h4 align="center"> 📋 Languages</h4>
    <p align="center">
