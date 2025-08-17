@@ -1,4 +1,6 @@
   <p align="right" style="font-style=orbitron;"> PROFILE VISITS</p> <img align="right" src="https://profile-counter.glitch.me/Alto-b/count.svg">
+  <p align="right" style="font-style=orbitron;"> PROFILE VISITS</p> <img align="right" src="https://komarev.com/ghpvc/?username=Alto-b">
+
     <br>
 <!--
   <div align="center" >
