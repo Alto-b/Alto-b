@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋 I'm Alto</h1>
 
 <p align="center">
-Flutter Developer • Mobile Engineer • Android & iOS
+Flutter Developer • Mobile Engineer
 </p>
 
 <p align="center">
-Building mobile applications that are fast, scalable, and enjoyable to use.
+Building mobile applications, solving product problems, and occasionally writing about what I learn along the way.
 </p>
 
 <p align="center">
@@ -20,46 +20,65 @@ Building mobile applications that are fast, scalable, and enjoyable to use.
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alto-b&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 ## About Me
 
-I'm a Flutter Developer based in Bengaluru with 3+ years of experience building Android and iOS applications.
+I'm a Flutter Developer based in Bengaluru.
 
-Most of my work revolves around creating reliable mobile experiences, improving application performance, designing scalable architectures, and solving product problems through engineering.
+Over the last few years, I've been building Android and iOS applications, working on everything from UI development and state management to architecture, performance optimization, caching, and offline-first experiences.
 
-At goSTOPS, I've worked on core application architecture, revenue-generating features, offline-first functionality, caching strategies, and performance improvements that reduced application startup time by nearly 50%.
+Currently, I work at goSTOPS where I contribute to customer-facing mobile applications, revenue-impacting features, and platform improvements. One of my recent projects involved reducing application startup time by nearly 50% through architectural and performance optimizations.
 
-I enjoy working across the product lifecycle — from discussing ideas and designing solutions to shipping features and solving production issues.
+I enjoy turning product ideas into reliable mobile experiences and figuring out how to make applications faster, simpler, and easier to maintain.
 
 ---
 
 ## What I Work With
 
 ```text
-Flutter • Dart • Android • iOS
+Flutter • Dart
 
 GetX • Bloc • Provider
 
 Firebase • REST APIs • FastAPI
 
-Hive • SQLite • MySQL
+Hive • SQLite
 
 Clean Architecture • DDD • SOLID
 ```
 
 ---
 
-## A Few Things I've Built
+## Currently Exploring
+
+* Mobile performance optimization
+* Offline-first application design
+* Scalable Flutter architecture
+* Product engineering
+* Building better developer workflows
+
+---
+
+## Featured Projects
 
 ### 📚 English Mastery
 
-An English learning application built to help users improve speaking, listening, and communication skills through interactive learning experiences.
+An English learning application focused on speaking, listening, and communication skills.
+
+Repository:
+https://github.com/Alto-b/english_mastery_
+
+Highlights:
 
 * Speech recognition and audio playback
-* Subscription and content management
 * Intelligent learning assistance
-* Cross-platform Flutter application
+* Subscription and content management
+* Interactive learning experiences
 
 Tech: Flutter, FastAPI, Whisper, Rive
 
@@ -67,13 +86,18 @@ Tech: Flutter, FastAPI, Whisper, Rive
 
 ### 👥 CodeFascia
 
-A community platform focused on learning, mentorship, and collaboration.
+A community platform built around learning, mentorship, and collaboration.
 
-* Real-time community chat
-* One-to-one mentorship conversations
+Repository:
+https://github.com/Alto-b/CodeFascia
+
+Highlights:
+
+* Community discussions
+* One-to-one mentorship
 * Subscription management
 * Payment integration
-* Flutter web admin dashboard
+* Admin dashboard
 
 Tech: Flutter, Firebase, Bloc, Razorpay
 
@@ -83,22 +107,17 @@ Tech: Flutter, Firebase, Bloc, Razorpay
 
 A healthcare application designed to simplify access to medical services.
 
+Repository:
+https://github.com/Alto-b/medilink-app-v2
+
+Highlights:
+
 * Appointment management
 * Teleconsultation support
-* Local-first data storage
-* In-app communication features
+* Local storage with Hive
+* Responsive mobile experience
 
 Tech: Flutter, Hive, Provider
-
----
-
-## Currently Interested In
-
-* Mobile architecture
-* Performance optimization
-* Offline-first applications
-* Scalable Flutter applications
-* Product engineering
 
 ---
 
@@ -114,12 +133,21 @@ Tech: Flutter, Hive, Provider
 
 ---
 
-## Let's Connect
+## Writing
 
-If you're building something interesting, want to discuss Flutter, or just want to connect with another developer, feel free to reach out.
+I occasionally write about Flutter development, application performance, and lessons learned while building mobile products.
+
+Medium:
+https://medium.com/@altob282
+
+---
+
+## Let's Connect
 
 📧 [altob282@gmail.com](mailto:altob282@gmail.com)
 
-💼 LinkedIn: https://www.linkedin.com/in/alto-b-puthethu/
+💼 LinkedIn
+https://www.linkedin.com/in/alto-b-puthethu/
 
-✍️ Medium: https://medium.com/@altob282
+✍️ Medium
+https://medium.com/@altob282
