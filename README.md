@@ -1,195 +1,146 @@
-  <p align="right" style="font-style=orbitron;"> PROFILE VISITS</p> <img align="right" src="https://profile-counter.glitch.me/Alto-b/count.svg">
-</p>
-    <br>
-<!--
-  <div align="center" >
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&background=EF140F00&width=435&lines=Hi+!+I+am+Alto+b;Flutter+developer;Freelancer" alt="Typing SVG" /></a>
-  </div>
-  -->
-<!--
-  ![banner](https://github.com/Alto-b/Alto-b/assets/89630614/f6d17e4e-8b00-4180-ae20-6485c5495f9b) 
--->
+<h1 align="center">Hi 👋, I'm Alto B</h1>
+
 <h3 align="center">
-        <samp> Hello World!, I am
-                <b><a target="_blank" href="github.com/alto-b">Alto B</a></b>
-        </samp>
+Mobile Engineer | Flutter Developer | Android & iOS | Clean Architecture
 </h3>
 
-
-<p align="center"> 
-  <samp>
-  <!--  <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a> -->
-    <br>
-    「 Flutter Developer 」
-    <br>
-    <br>
-  </samp>
-</p>
-
-<!-- <img src="https://ivanluna.dev/images/banner.png"><br><br> -->
-<!--  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br> -->
-
- 
-<h4 align="center"> 📋 Languages</h4>
-   <p align="center">
-   <img align="center" alt="c" width="auto" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-   <img align="center" alt="cpp" width="auto" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-   <img align="center" alt="html5" width="auto" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-   <img align="center" alt="css3" width="auto" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-   <img align="center" alt="javascript" width="auto" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-   <img align="center" alt="php" width="auto" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-   <img align="center" alt="dart" width="auto" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-    <img align="center" alt="json" width="auto" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-</p>
-   
-   <br>
-   <h4 align="center"> 📚 Frameworks, Platforms and Libraries</h4>
-   <p align="center">
-     <img align="center" alt="flutter" width="auto" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-     <img align="center" alt="bootstrap" width="auto" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-     <img align="center" alt="jquery" width="auto" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
-     <img align="center" alt="anaconda" width="auto" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
-     <img align="center" alt="fastapi" width="auto" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" />
-   
-   
-  
-</p>
-
-<br>
-<h4 align="center"> ☁ Cloud</h4>
-   <p align="center">
-   <img align="center" alt="aws" width="auto" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-       
-      
-</p>
-
-<br>
-<h4 align="center"> 💾 Databases</h4>
-   <p align="center">
-   <img align="center" alt="mysql" width="auto" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-     <img align="center" alt="SQLITE" width="auto" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-     <img align="center" alt="Firebase" width="auto" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /> 
-       
-      
-</p>
-   
-   
- <br>
- <h4 align="center">🕓 Version Control</h4>
-   <p align="center">
-   <img align="center" alt="GitHub" width="auto" src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-     <img align="center" alt="BitBucket" width="auto" src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" />
-</p>
-
-<br>
-<h4 align="center">🖍 Design</h4>
-   <p align="center">
-     <img align="center" alt="Figma" width="auto" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-     <img align="center" alt="canva" width="auto" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
-     <img align="center" alt="Dribble" width="auto" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
-     <img align="center" alt="Unsplash" width="auto" src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white" />
-</p>
-
-<br>
-<h4 align="center">💻 IDEs/Editors</h4>
-   <p align="center">
-    <img align="center" alt="dreamweaver" width="auto" src="https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400" />
-    <img align="center" alt="netbeans" width="auto" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" />
-    <img align="center" alt="pycharm" width="auto" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
-    <img align="center" alt="vscode" width="auto" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-    <img align="center" alt="visualstudio" width="auto" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-    <img align="center" alt="xcode" width="auto" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
-</p>
-
- 
- <br>
- <h4 align="center">⏱️ Workflow Platforms</h4>
-   <p align="center">
-   <img align="center" alt="Jira" width="auto" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
-  
-</p>
-
- <br>
- <h4 align="center"> 🤖 Artificial Intelligence </h4>
-   <p align="center">
-   <img align="center" alt="chatgpt" width="auto" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
-   <img align="center" alt="gemini" width="auto" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  
-</p>
-
- <br>
-<h4 align="center">Linters</h4>
- <p align="center">
-    <img align="center" alt="codemirror" width="auto" src="https://img.shields.io/badge/CodeMirror-D30707?style=for-the-badge&logo=CodeMirror&logoColor=white" />
-</p>
-
-
-<br>
-<h4 align="center">Virtualization</h4>
- <p align="center">
-    <img align="center" alt="vmware" width="auto" src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" />
-</p>
-<br>
-<h4 align="center">📝 Blog</h4>
 <p align="center">
+Building scalable mobile applications with a focus on performance, architecture, and user experience.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alto-b-puthethu/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:altob282@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://medium.com/@altob282">
-    <img align="center" alt="medium" width="auto" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-   </a>
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
 </p>
 
-<br>
-<h4 align="center">Connect with me</h4>
+---
+
+## 👨‍💻 About Me
+
+* 🚀 Mobile Engineer with **3+ years of experience** building production-grade Android and iOS applications.
+* 📱 Specialized in **Flutter**, scalable mobile architectures, and performance optimization.
+* ⚡ Improved application startup performance by nearly **50%** through architectural and caching optimizations.
+* 🏗️ Experienced in **Clean Architecture**, SOLID principles, state management, and offline-first application design.
+* 🤝 Collaborate closely with Product, Design, QA, and Backend teams to deliver high-quality user experiences.
+* 🌱 Currently exploring advanced Flutter performance techniques and scalable mobile system design.
+
+---
+
+## 🛠️ Tech Stack
+
+### Mobile Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=Flutter\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+
+### State Management
+
+![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge)
+![Bloc](https://img.shields.io/badge/Bloc-0296E8?style=for-the-badge)
+![Provider](https://img.shields.io/badge/Provider-4285F4?style=for-the-badge)
+
+### Backend & APIs
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge\&logo=FASTAPI\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
+
+### Database & Storage
+
+![Hive](https://img.shields.io/badge/Hive-F9C74F?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### Architecture & Engineering
+
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-222222?style=for-the-badge)
+![DDD](https://img.shields.io/badge/DDD-Domain_Driven_Design-blue?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-Principles-green?style=for-the-badge)
+
+---
+
+## 🚀 Featured Projects
+
+### 📚 English Mastery
+
+Cross-platform English learning application focused on improving communication skills through interactive learning experiences.
+
+**Highlights**
+
+* Speech recognition and audio playback
+* Subscription and content management
+* Intelligent learning assistance
+* Performance-focused Flutter architecture
+
+**Tech:** Flutter, FastAPI, Rive, Whisper, REST APIs
+
+---
+
+### 👥 CodeFascia
+
+Community platform enabling learning, mentorship, real-time collaboration, subscriptions, and payments.
+
+**Highlights**
+
+* Real-time chat and mentorship features
+* Firebase Authentication & Realtime Database
+* Subscription management and payments
+* Flutter Web admin dashboard
+
+**Tech:** Flutter, Firebase, Bloc, Razorpay, DDD
+
+---
+
+### 🏥 Medilink
+
+Healthcare service application focused on appointments, teleconsultation support, and patient engagement.
+
+**Highlights**
+
+* Appointment management
+* Local-first data handling
+* In-app communication features
+* Optimized application performance
+
+**Tech:** Flutter, Hive, Provider
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-   <a target="_blank" href="https://www.linkedin.com/in/alto-b-puthethu-b864b6251">
-    <img align="center" alt="LinkdeIN" width="auto" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-   </a>
-   <a target="_blank" href="https://www.instagram.com/alto_b_/">
-  <img align="center" alt="Instagram" width="auto" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-   </a>
-   <a target="_blank" href="mailto:altob282@gmail.com">
-  <img align="center" alt="Gmail" width="92px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-   </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Alto-b&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alto-b&theme=tokyonight&hide_border=true" />
+</p>
 
+---
 
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+## ✍️ Latest Articles
 
- <div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+📖 Read my articles on Medium:
 
-[![](https://github-readme-stats.vercel.app/api?username=alto-b&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/alto-b) <br>
-[![](https://github-readme-streak-stats.herokuapp.com/?user=alto-b&theme=material-palenight)](https://github.com/alto-b)
-</div>
+👉 https://medium.com/@altob282
 
-----
+---
 
+## 🤝 Let's Connect
 
-<br>
+I'm always interested in discussing:
 
-![Alto b's Graph](https://github-readme-activity-graph.vercel.app/graph?username=alto-b&custom_title=Alto%20b's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+* Flutter Development
+* Mobile Architecture
+* Performance Optimization
+* Product Engineering
+* Cross-Platform Development
 
-<br>
-
-<div align="center">
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-</div>
-
-
-
-<!--
-**Alto-b/Alto-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+📩 Reach me at: **[altob282@gmail.com](mailto:altob282@gmail.com)**
