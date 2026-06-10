@@ -20,8 +20,13 @@ Building mobile applications, solving product problems, and occasionally writing
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Alto-b&label=Profile%20Views&color=0e75b6&style=flat" />
+</p> -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Apps%20Shipped-5%2B-success" />
+  <img src="https://img.shields.io/badge/Flutter-2%2B%20Years-blue" />
+  <img src="https://img.shields.io/badge/AI%20Projects-3%2B-purple" />
 </p>
 
 ---
